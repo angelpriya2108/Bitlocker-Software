@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bitlocker-software.readthedocs.io/en/latest/
